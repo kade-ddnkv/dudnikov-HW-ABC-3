@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------------
+Entered data
+-------------------------------------------------------------------------------------
+Total objects in container: 1
+TYPE   MAX_DISTANCE    FUEL_CAP      FUEL_CONS     ADDITIONAL_INFO                   
+truck  272.60          123           45.12         load_capacity       6789          
+-------------------------------------------------------------------------------------
+After heap sort
+-------------------------------------------------------------------------------------
+Is correctly sorted: YES
+Total objects in container: 1
+TYPE   MAX_DISTANCE    FUEL_CAP      FUEL_CONS     ADDITIONAL_INFO                   
+truck  272.60          123           45.12         load_capacity       6789          
