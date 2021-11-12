@@ -95,8 +95,3 @@ if __name__ == '__main__':
 
     print(f'--- Sort and print time: {time.time() - start_of_sorting_time :.3f} seconds ---')
     print('==> Finish')
-
-    print(type(container[0]))
-    print(type(dispatch_dict['t']))
-    print(type(ofile))
-    print(type(1 == 2))
